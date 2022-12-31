@@ -1,0 +1,1 @@
+The files in the "Customization_Service_data.txt.gz" contain your personal data collected by Samsung related to Customization Service.
